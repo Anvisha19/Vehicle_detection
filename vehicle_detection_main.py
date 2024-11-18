@@ -1,15 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-# ----------------------------------------------
-# --- Author         : Ahmet Ozlu
-# --- Mail           : ahmetozlu93@gmail.com
-# --- Date           : 27th January 2018
-# ----------------------------------------------
 
-#############################################################################################
-# command to run the program and show the output: python3 vehicle_detection_main.py imshow  #
-# command to run the program and save the output: python3 vehicle_detection_main.py imwrite #
-#############################################################################################
 
 # Imports
 import numpy as np
